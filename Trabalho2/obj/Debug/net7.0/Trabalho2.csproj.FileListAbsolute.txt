@@ -1,0 +1,15 @@
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\bin\Debug\net7.0\Trabalho2.exe
+c:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\bin\Debug\net7.0\Trabalho2.deps.json
+c:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\bin\Debug\net7.0\Trabalho2.runtimeconfig.json
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\bin\Debug\net7.0\Trabalho2.dll
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\bin\Debug\net7.0\Trabalho2.pdb
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.csproj.AssemblyReference.cache
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.AssemblyInfoInputs.cache
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.AssemblyInfo.cs
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.csproj.CoreCompileInputs.cache
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.dll
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\refint\Trabalho2.dll
+C:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.pdb
+c:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\Trabalho2.genruntimeconfig.cache
+c:\Programacao\Tecnologias Microsoft\INF-0991 - Controle de versão\Trabalho2\obj\Debug\net7.0\ref\Trabalho2.dll
