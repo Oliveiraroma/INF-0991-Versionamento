@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj": {}
+    "C:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj": {}
   },
   "projects": {
-    "c:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj": {
+    "C:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj",
+        "projectUniqueName": "C:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj",
         "projectName": "Trabalho2",
-        "projectPath": "c:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj",
+        "projectPath": "C:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\Trabalho2.csproj",
         "packagesPath": "C:\\Users\\Lenovo T430\\.nuget\\packages\\",
-        "outputPath": "c:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\obj\\",
+        "outputPath": "C:\\Programacao\\Tecnologias Microsoft\\INF-0991 - Controle de versão\\Trabalho2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo T430\\AppData\\Roaming\\NuGet\\NuGet.Config",
